@@ -1,0 +1,35 @@
+# VidForge-V1
+
+Simple program that lets you download YouTube videos in any available quality.
+## Features
+
+- Fetch video information
+- View available video qualities
+- Choose the desired quality
+- Download videos locally
+- Merge video and audio using FFmpeg
+
+## Requirements
+
+- Python 3
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- FFmpeg
+
+Make sure Python, yt-dlp, and FFmpeg are installed and available in your PATH.
+
+## Usage
+
+```bash
+mkdir downloads #for storing downloaded videos
+python downloader.py
+```
+
+Enter a YouTube URL, choose the available quality, and start the download.
+
+![App Screenshot](images/ss_2.png)
+
+## Disclaimer
+
+For personal and educational use. Respect YouTube's Terms of Service and applicable copyright laws.
+
+

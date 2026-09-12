@@ -21,7 +21,7 @@ Make sure Python, yt-dlp, and FFmpeg are installed and available in your PATH.
 
 ```bash
 mkdir downloads #for storing downloaded videos
-python downloader.py
+python vidforge.py
 ```
 
 Enter a YouTube URL, choose the available quality, and start the download.

@@ -1,1 +1,5 @@
+downloads/*
+downloads
 *.mp4
+docs/
+docs/*
